@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+.weather-holder {
+  height: 300px;
+  width: 200px;
+  border: solid 1px gray;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.weather-holder div {
+  width: 100%;
+}
